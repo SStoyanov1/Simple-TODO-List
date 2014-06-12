@@ -1,0 +1,6 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\Simple TODO List\Simple TODO List\bin\Simple_TODO_List.dll.config
+c:\users\stoyan\documents\visual studio 2013\Projects\Simple TODO List\Simple TODO List\bin\Simple_TODO_List.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Simple TODO List\Simple TODO List\bin\Simple_TODO_List.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\Simple TODO List\Simple TODO List\obj\Debug\Simple_TODO_List.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2013\Projects\Simple TODO List\Simple TODO List\obj\Debug\Simple_TODO_List.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Simple TODO List\Simple TODO List\obj\Debug\Simple_TODO_List.pdb

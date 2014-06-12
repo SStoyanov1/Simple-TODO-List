@@ -1,0 +1,119 @@
+﻿body {
+    padding: 5px;
+    margin: 5px;
+    font-family: 'Vollkorn', serif;
+    color: #0e0e80;
+}
+
+div {
+    background: skyblue;
+    border: 5px solid #0000ff;
+    border-radius: 15px;
+}
+
+#wrapper {
+    width: 500px;
+    height: 620px;
+}
+
+    #wrapper div {
+        margin: 10px;
+        padding: 5px;
+        border-width: 3px;
+    }
+
+body h1 {
+    text-align: center;
+    font-size: 39px;
+    margin: 10px;
+}
+
+body h2 {
+    font-size: 20px;
+    margin: 5px 5px;
+}
+
+label {
+    margin: 10px;
+}
+
+#title-input {
+    margin-left: 45px;
+}
+
+#description-input {
+    height: 70px;
+    width: 200px;
+}
+
+#description-label {
+    position: relative;
+    top: -58px;
+}
+
+a.btn {
+    margin-left: 35px;
+	display: inline-block;
+	color: #666;
+	background-color: #eee;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-size: 16px;
+	padding: 10px 30px;
+	border-radius: 5px;
+	border: 1px solid rgba(0,0,0,0.3);
+	border-bottom-width: 3px;
+}
+
+	a.btn:hover {
+		background-color: #e3e3e3;
+		border-color: rgba(0,0,0,0.5);
+	}
+	
+	a.btn:active {
+		background-color: #CCC;
+		border-color: rgba(0,0,0,0.9);
+	}
+
+/* blue button */
+
+a.btn.btn-blue {
+	background-color: #699DB6;
+	border-color: rgba(0,0,0,0.3);
+	text-shadow: 0 1px 0 rgba(0,0,0,0.5);
+	color: #FFF;
+}
+
+	a.btn.btn-blue:hover {
+		background-color: #4F87A2;
+		border-color: rgba(0,0,0,0.5);
+	}
+	
+	a.btn.btn-blue:active {
+		background-color: #3C677B;
+		border-color: rgba(0,0,0,0.9);
+	}
+
+#task-container {
+    border: none;
+    padding: 0;
+    overflow-y:auto;
+    height: 294px;
+}
+
+#task-container div {
+    margin: 3px;
+}
+
+.added-task {
+        background-color: #45b8e8;
+}
+
+.selected {
+    background-color: #3f9bc1;
+}
+
+#show-hide-btn {
+    width: 50px;
+    text-align: center;
+}

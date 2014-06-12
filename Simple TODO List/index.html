@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Simple TODO List</title>
+    <link rel="stylesheet" type="text/css" href="styles/style.css" />
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Vollkorn">
+</head>
+<body>
+    <div id="wrapper">
+        <h1>Simple TODO List</h1>
+        <a id="add-btn" class="btn btn-blue">Add</a>
+        <a id="del-btn" class="btn btn-blue">Delete</a>
+        <a id="show-hide-btn" class="btn btn-blue">Show</a>
+        <div id="input-div">
+            <h2>New Task</h2>
+            <label for="title-input>">Title*</label><input type="text" id="title-input" /><br />
+            <label id="description-label">Description</label>
+            <textarea id="description-input" cols="3" rows="40"></textarea><br />
+        </div>
+        <div id="task-container"></div>
+    </div>
+    <script src="scripts/script.js" type="text/javascript"></script>
+</body>
+</html>
